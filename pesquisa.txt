@@ -1,0 +1,30 @@
+O'que é Git:
+Git é um sistema de controle de versão distribuído, ou seja, um software
+que permite acompanhar as alterações feitas em um projeto de desenvolvimento, 
+como um código-fonte, ao longo do tempo. Ele foi criado por Linus Torvalds, 
+o criador do Linux, e é amplamente utilizado por desenvolvedores e equipes de 
+desenvolvimento de software.
+
+O'que são esses comandos do git:
+* git status:
+O que faz: Mostra o estado atual do seu repositório. Ele exibe informações sobre 
+quais arquivos foram modificados, quais estão sendo rastreados ou não, e se há 
+alterações preparadas para serem enviadas (staged) ou não.
+
+* git commit:
+O que faz: Registra as alterações feitas no seu repositório local. Você adiciona 
+um "commit" para salvar um ponto específico no seu histórico de versões. 
+Normalmente, você usa o comando git commit após adicionar alterações ao "stage" 
+com git add.
+
+* git push:
+O que faz: Envia os commits que você fez localmente para o repositório remoto (por 
+exemplo, no GitHub, GitLab ou Bitbucket). Esse comando é usado para sincronizar o 
+seu repositório local com a versão centralizada do repositório.
+
+Resumo dos códigos Git:
+git status: Verifica o estado atual do repositório.
+
+git commit: Salva as alterações feitas no repositório local.
+
+git push: Envia as alterações para o repositório remoto.
